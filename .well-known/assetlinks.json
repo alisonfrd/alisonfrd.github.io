@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.alison.pokedex",
+            "sha256_cert_fingerprints": [
+                "D3:A6:BE:08:68:7D:79:5B:A8:5B:90:99:5F:F4:71:49:5C:54:88:71:73:64:33:4C:91:D4:86:5E:3C:A8:13:83"
+            ]
+        }
+    }
+]
